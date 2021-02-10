@@ -4,7 +4,7 @@
 	<img
 		width="300"
 		alt="The Candy House"
-		src="https://raw.githubusercontent.com/thelounge/thelounge/master/client/img/logo-vertical-transparent-bg.svg?sanitize=true">
+		src="https://github.com/iamkrati22/E-commerce-Website/blob/main/Cookies%20and%20Cream/icons/039bf6ad-0434-4976-b406-acc8672a9655_200x200.png">
 </h1>
 
 <h3 align="center">
@@ -13,11 +13,11 @@
 
 <p align="center">
 	<strong>
-		<a href="https://thelounge.chat/">Website</a>
+		<a href="https://iamkrati22.github.io/E-commerce-Website/">Website</a>
 		•
-		<a href="https://thelounge.chat/docs">Docs</a>
+		<a href="">Docs</a>
 		•
-		<a href="https://demo.thelounge.chat/">Demo</a>
+		<a href="">Demo</a>
 	</strong>
 </p>
 <p align="center">
